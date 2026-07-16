@@ -23,21 +23,21 @@ During the exercise, the hosted demo later displayed a **Heroku Professional Err
 
 ## Figures
 
-![OWASP Juice Shop Home](ASICN MINOR PROJECT 2 SS/Screenshot 2026-07-08 202143.png)
+![OWASP Juice Shop Home](Screenshots/Screenshot 2026-07-08 202143.png)
 
-![Login Page](ASICN MINOR PROJECT 2 SS/Screenshot 2026-07-08 202159.png)
+![Login Page](Screenshots/Screenshot 2026-07-08 202159.png)
 
-![Search Functionality](ASICN MINOR PROJECT 2 SS/Screenshot 2026-07-08 202225.png)
+![Search Functionality](Screenshots/Screenshot 2026-07-08 202225.png)
 
-![Product Page](ASICN MINOR PROJECT 2 SS/Screenshot 2026-07-08 202429.png)
+![Product Page](Screenshots/Screenshot 2026-07-08 202429.png)
 
-![Application Page](ASICN MINOR PROJECT 2 SS/Screenshot 2026-07-08 202645.png)
+![Application Page](Screenshots/Screenshot 2026-07-08 202645.png)
 
-![Application Components](ASICN MINOR PROJECT 2 SS/Screenshot 2026-07-08 203106.png)
+![Application Components](Screenshots/Screenshot 2026-07-08 203106.png)
 
-![Additional Observation](ASICN MINOR PROJECT 2 SS/Screenshot 2026-07-08 203818.png)
+![Additional Observation](Screenshots/Screenshot 2026-07-08 203818.png)
 
-![Heroku Professional Error](ASICN MINOR PROJECT 2 SS/Screenshot 2026-07-10 235909.png)
+![Heroku Professional Error](Screenshots/Screenshot 2026-07-10 235909.png)
 
 ---
 
@@ -49,15 +49,15 @@ The captured requests and responses were analysed to understand browser-server c
 
 ## Figures
 
-![Burp Suite Proxy](ASICN MINOR PROJECT 2 SS/Screenshot 2026-07-10 234035.png)
+![Burp Suite Proxy](Screenshots/Screenshot 2026-07-10 234035.png)
 
-![HTTP History](ASICN MINOR PROJECT 2 SS/Screenshot 2026-07-10 234911.png)
+![HTTP History](Screenshots/Screenshot 2026-07-10 234911.png)
 
-![Captured Requests](ASICN MINOR PROJECT 2 SS/Screenshot 2026-07-10 234928.png)
+![Captured Requests](Screenshots/Screenshot 2026-07-10 234928.png)
 
-![Request Details](ASICN MINOR PROJECT 2 SS/Screenshot 2026-07-10 235159.png)
+![Request Details](Screenshots/Screenshot 2026-07-10 235159.png)
 
-![Response Details](ASICN MINOR PROJECT 2 SS/Screenshot 2026-07-10 235335.png)
+![Response Details](Screenshots/Screenshot 2026-07-10 235335.png)
 
 ---
 
@@ -78,11 +78,11 @@ The exercise demonstrated the practical differences between modern and legacy ha
 
 ## Figures
 
-![MD5 Hash](ASICN MINOR PROJECT 2 SS/Screenshot 2026-07-09 011051.png)
+![MD5 Hash](Screenshots/Screenshot 2026-07-09 011051.png)
 
-![SHA-256 Hash](ASICN MINOR PROJECT 2 SS/Screenshot 2026-07-09 011612.png)
+![SHA-256 Hash](Screenshots/Screenshot 2026-07-09 011612.png)
 
-![Generated Hash Values](ASICN MINOR PROJECT 2 SS/Screenshot 2026-07-09 011657.png)
+![Generated Hash Values](Screenshots/Screenshot 2026-07-09 011657.png)
 
 ---
 
@@ -94,11 +94,11 @@ The activity demonstrated how security flaws are identified and mitigated throug
 
 ## Figures
 
-![Lab Screenshot 1](ASICN MINOR PROJECT 2 SS/Screenshot 2026-07-09 013315.png)
+![Lab Screenshot 1](Screenshots/Screenshot 2026-07-09 013315.png)
 
-![Lab Screenshot 2](ASICN MINOR PROJECT 2 SS/Screenshot 2026-07-09 013528.png)
+![Lab Screenshot 2](Screenshots/Screenshot 2026-07-09 013528.png)
 
-![Lab Screenshot 3](ASICN MINOR PROJECT 2 SS/Screenshot 2026-07-09 095934.png)
+![Lab Screenshot 3](Screenshots/Screenshot 2026-07-09 095934.png)
 
 ---
 
@@ -110,9 +110,9 @@ The selected case demonstrated how a researcher responsibly reported a vulnerabi
 
 ## Figures
 
-![Bug Bounty Case Study](ASICN MINOR PROJECT 2 SS/Screenshot 2026-07-10 235507.png)
+![Bug Bounty Case Study](Screenshots/Screenshot 2026-07-10 235507.png)
 
-![Supporting Screenshot](ASICN MINOR PROJECT 2 SS/Screenshot 2026-07-08 214826.png)
+![Supporting Screenshot](Screenshots/Screenshot 2026-07-08 214826.png)
 
 ---
 
